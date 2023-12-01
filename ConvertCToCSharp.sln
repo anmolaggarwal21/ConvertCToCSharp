@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertCToCSharp", "ConvertCToCSharp\ConvertCToCSharp.csproj", "{C91E445E-0C53-4793-BBDB-E973404E3B0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B3646BD-A548-4CDD-9EF2-18E51EBE4233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91E445E-0C53-4793-BBDB-E973404E3B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91E445E-0C53-4793-BBDB-E973404E3B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91E445E-0C53-4793-BBDB-E973404E3B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91E445E-0C53-4793-BBDB-E973404E3B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A88D13-09E2-499A-B762-446E48D72C80}
+	EndGlobalSection
+EndGlobal
